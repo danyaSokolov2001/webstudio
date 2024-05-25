@@ -297,3 +297,6 @@ margin-top: -36px;
     text-decoration: none;
     color: black;
   }
+  .titless:hover {
+    color: aqua;
+  }
