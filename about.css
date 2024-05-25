@@ -1,0 +1,117 @@
+.mark-title {
+    background-color: white;
+    color: rgb(2, 196, 255);
+  }
+  .container-header {
+  }
+  .site-name {
+    margin-top: -5px;
+    margin-left: 200px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .left {
+    list-style-type: none;
+    margin-left: 370px;
+    display: flex;
+    margin-top: -48px;
+    margin-bottom: 24px;
+  }
+  .link {
+    margin-left: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  }
+  .right {
+    list-style-type: none;
+    margin-left: 1000px;
+    display: flex;
+    margin-top: -38px;
+    font-size: small;
+    margin-bottom: 20px;
+  }
+  .link-right {
+    margin-left: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  a {
+    text-decoration: none;
+  }
+  .titless:hover {
+    color: rgb(19, 243, 243);
+  }
+  .container-footer {
+    background-color: rgb(65, 77, 94);
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -16px;
+  }
+  .mark-title-ftr {
+    background-color:rgb(65, 77, 94);
+    color: rgb(2, 196, 255);
+  }
+  .ftr-name {
+    margin-left: 170px;
+    margin-top: 20px;
+    padding-top: 10px;
+  }
+  .town {
+    margin-left: 170px;
+    color: white;
+  }
+  .email-ftr {
+    margin-left: 170px;
+    color: darkgrey;
+  }
+  .number {
+    margin-left: 170px;
+    color: darkgrey;
+  }
+  .buttons {
+    display: flex;
+    padding-left: 500px;
+    margin-top:70px ;
+  }
+  .btn-main:hover {
+    background-color: rgb(27, 207, 231) 
+  }
+  .btn-main {
+    width:83px ;
+    height:38px ;
+    margin-right: 10px;
+    border-radius: 7px;
+    border: 0px ; 
+  }
+  .word-btn {
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .container-bg {
+    display: inline-block;
+    padding-top: 50px;
+    padding-left: 115px;
+  }
+  .img-bg {
+    width: 340px;
+    height: 254px;
+  }
+  .img-title {
+    margin-left: 30px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .img-text {
+    margin-left: 30px;
+    color: darkgray;
+  }
+  .container-bg-two {
+    display: inline-block;
+    padding-top: 50px;
+    padding-left: 115px;
+  }
+  .container-bg-three {
+    display: inline-block;
+    padding-top: 50px;
+    padding-left: 115px;
+    padding-bottom: 60px;
+  }
