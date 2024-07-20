@@ -98,6 +98,9 @@ margin-right: -8px;
 padding-top: 80px;
 padding-bottom: 200px;
 max-width: 1550px;
+background: url(./images/programmers.jpg) no-repeat center center fixed;
+background-size: cover;
+
 }
 .main-title {
 text-align: center;
