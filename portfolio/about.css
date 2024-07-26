@@ -72,7 +72,8 @@
     margin-top:70px ;
   }
   .btn-main:hover {
-    background-color: rgb(27, 207, 231) 
+    background-color: aqua;
+    transition: 0.8s;
   }
   .btn-main {
     width:83px ;
@@ -80,6 +81,7 @@
     margin-right: 10px;
     border-radius: 7px;
     border: 0px ; 
+    transition: 0.4s;
   }
   .word-btn {
     font-size: 15px;
